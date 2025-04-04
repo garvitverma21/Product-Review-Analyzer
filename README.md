@@ -1,7 +1,5 @@
 # FeedbackFinder - Product Review Analyzer
 
-![FeedbackFinde](https://github.com/user-attachments/assets/64e7c63b-5a69-49f7-b93d-aacea8ac010b)
-
 FeedbackFinder is a robust tool designed to help you uncover sentiments and opinions within product reviews. Leverage this data to enhance your products and services based on customer feedback.
 [Live Demo](https://feedbackfinder-ui.onrender.com)  
 
